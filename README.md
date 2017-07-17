@@ -6,6 +6,7 @@ I usually buy these wooden hangers:
 The problem is that the plastic part breaks if you put something too thick on it.  I usually do that...
 
 So I printed a replacement:
+
 ![newHook](newHook.jpg "New Part")
 
 ![hookPart](hookPart.jpg "smaller inner hook")
